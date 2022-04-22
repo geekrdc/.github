@@ -1,11 +1,3 @@
-<p align="center">
-	<img alt="logo" src="https://img.zxdmy.com/2022/202204201431162.png">
-</p>
-
-<h1 align="center" >极客研发社区</h1>
-
-<p align="center"><b>GeekRDC, GEEK Research and Development Center/Community.</b></p>
-
 ## 团队简介
 
 团队由一群来自WUT的计算机技术开源爱好者组成，专注于计算机前沿技术的研究与开发。
